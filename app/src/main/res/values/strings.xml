@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Text RecognizerLine</string>
+    <string name="text_button">Text</string>
+    <string name="copy_button">Copy</string>
+    <string name="image_null">Image not selected</string>
+    <string name="image_not_loaded">Image load failed</string>
+    <string name="image_url">Image URL</string>
+    <string name="image_for_recognition">Image for recognition</string>
+    <string name="text_copy_success">Text copied to clipboard</string>
+    <string name="text_recognition_failed">Text recognition failed</string>
+</resources>

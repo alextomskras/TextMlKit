@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "184680526097",
+    "firebase_url": "https://textmlkit-88c0e.firebaseio.com",
+    "project_id": "textmlkit-88c0e",
+    "storage_bucket": "textmlkit-88c0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184680526097:android:609460a590a8de05519cb0",
+        "android_client_info": {
+          "package_name": "com.dreamer.textmlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184680526097-4mp9gms7nfinqc2amm4pgfjc5jo5j0j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0HRUYLAEkaG135Y-jxV7MXyMGmE2bJlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184680526097-4mp9gms7nfinqc2amm4pgfjc5jo5j0j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
